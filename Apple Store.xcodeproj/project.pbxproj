@@ -8,17 +8,51 @@
 
 /* Begin PBXBuildFile section */
 		ED10B60129251DCB00CE4B1D /* Apple_StoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B60029251DCB00CE4B1D /* Apple_StoreApp.swift */; };
-		ED10B60329251DCB00CE4B1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B60229251DCB00CE4B1D /* ContentView.swift */; };
+		ED10B60329251DCB00CE4B1D /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B60229251DCB00CE4B1D /* StoreView.swift */; };
 		ED10B60529251DCC00CE4B1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED10B60429251DCC00CE4B1D /* Assets.xcassets */; };
 		ED10B60829251DCC00CE4B1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED10B60729251DCC00CE4B1D /* Preview Assets.xcassets */; };
+		ED10B60F29251F2B00CE4B1D /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B60E29251F2B00CE4B1D /* Tabs.swift */; };
+		ED10B611292527F000CE4B1D /* Calendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B610292527F000CE4B1D /* Calendario.swift */; };
+		ED10B6132925281F00CE4B1D /* Per te.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B6122925281F00CE4B1D /* Per te.swift */; };
+		ED10B615292528CD00CE4B1D /* Ricerca.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B614292528CD00CE4B1D /* Ricerca.swift */; };
+		ED10B6172925292700CE4B1D /* ShoppingBag.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B6162925292700CE4B1D /* ShoppingBag.swift */; };
+		ED10B61B29269CF600CE4B1D /* Tabiniziale.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B61A29269CF600CE4B1D /* Tabiniziale.swift */; };
+		ED10B61D29269D9200CE4B1D /* iPhone14.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B61C29269D9200CE4B1D /* iPhone14.swift */; };
+		ED10B61F29269DFA00CE4B1D /* iPad.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B61E29269DFA00CE4B1D /* iPad.swift */; };
+		ED10B6212928CFE300CE4B1D /* TabPrimoPiano.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B6202928CFE300CE4B1D /* TabPrimoPiano.swift */; };
+		ED10B6242928DB3900CE4B1D /* iPhonemodale.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B6232928DB3900CE4B1D /* iPhonemodale.swift */; };
+		ED10B626292A333800CE4B1D /* iPadmodale.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED10B625292A333800CE4B1D /* iPadmodale.swift */; };
+		ED901B0C292BBD71001A286F /* accountmodale.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B0B292BBD71001A286F /* accountmodale.swift */; };
+		ED901B10292BCEC0001A286F /* Modaleaccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B0F292BCEC0001A286F /* Modaleaccount.swift */; };
+		ED901B13292D120D001A286F /* TextCalendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B12292D120D001A286F /* TextCalendario.swift */; };
+		ED901B15292D126F001A286F /* BottoneCalendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B14292D126F001A286F /* BottoneCalendario.swift */; };
+		ED901B17292E18E9001A286F /* ScrollCalendarii.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B16292E18E9001A286F /* ScrollCalendarii.swift */; };
+		ED901B19292E20B6001A286F /* Barradiricerca.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B18292E20B6001A286F /* Barradiricerca.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ED10B5FD29251DCB00CE4B1D /* Apple Store.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Store.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED10B60029251DCB00CE4B1D /* Apple_StoreApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_StoreApp.swift; sourceTree = "<group>"; };
-		ED10B60229251DCB00CE4B1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		ED10B60229251DCB00CE4B1D /* StoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
 		ED10B60429251DCC00CE4B1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED10B60729251DCC00CE4B1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED10B60E29251F2B00CE4B1D /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
+		ED10B610292527F000CE4B1D /* Calendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendario.swift; sourceTree = "<group>"; };
+		ED10B6122925281F00CE4B1D /* Per te.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Per te.swift"; sourceTree = "<group>"; };
+		ED10B614292528CD00CE4B1D /* Ricerca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ricerca.swift; sourceTree = "<group>"; };
+		ED10B6162925292700CE4B1D /* ShoppingBag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingBag.swift; sourceTree = "<group>"; };
+		ED10B61A29269CF600CE4B1D /* Tabiniziale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabiniziale.swift; sourceTree = "<group>"; };
+		ED10B61C29269D9200CE4B1D /* iPhone14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPhone14.swift; sourceTree = "<group>"; };
+		ED10B61E29269DFA00CE4B1D /* iPad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPad.swift; sourceTree = "<group>"; };
+		ED10B6202928CFE300CE4B1D /* TabPrimoPiano.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabPrimoPiano.swift; sourceTree = "<group>"; };
+		ED10B6232928DB3900CE4B1D /* iPhonemodale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPhonemodale.swift; sourceTree = "<group>"; };
+		ED10B625292A333800CE4B1D /* iPadmodale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPadmodale.swift; sourceTree = "<group>"; };
+		ED901B0B292BBD71001A286F /* accountmodale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accountmodale.swift; sourceTree = "<group>"; };
+		ED901B0F292BCEC0001A286F /* Modaleaccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modaleaccount.swift; sourceTree = "<group>"; };
+		ED901B12292D120D001A286F /* TextCalendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextCalendario.swift; sourceTree = "<group>"; };
+		ED901B14292D126F001A286F /* BottoneCalendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottoneCalendario.swift; sourceTree = "<group>"; };
+		ED901B16292E18E9001A286F /* ScrollCalendarii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollCalendarii.swift; sourceTree = "<group>"; };
+		ED901B18292E20B6001A286F /* Barradiricerca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Barradiricerca.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +86,9 @@
 			isa = PBXGroup;
 			children = (
 				ED10B60029251DCB00CE4B1D /* Apple_StoreApp.swift */,
-				ED10B60229251DCB00CE4B1D /* ContentView.swift */,
+				ED10B60E29251F2B00CE4B1D /* Tabs.swift */,
+				ED10B6182925293700CE4B1D /* Pagine della tab */,
+				ED901B1A292E20BE001A286F /* Ricerca */,
 				ED10B60429251DCC00CE4B1D /* Assets.xcassets */,
 				ED10B60629251DCC00CE4B1D /* Preview Content */,
 			);
@@ -65,6 +101,61 @@
 				ED10B60729251DCC00CE4B1D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ED10B6182925293700CE4B1D /* Pagine della tab */ = {
+			isa = PBXGroup;
+			children = (
+				ED10B60229251DCB00CE4B1D /* StoreView.swift */,
+				ED10B610292527F000CE4B1D /* Calendario.swift */,
+				ED10B6122925281F00CE4B1D /* Per te.swift */,
+				ED10B614292528CD00CE4B1D /* Ricerca.swift */,
+				ED10B6162925292700CE4B1D /* ShoppingBag.swift */,
+				ED10B61929269C7900CE4B1D /* Pagine dello store */,
+				ED901B11292D11E8001A286F /* Elementi calendario */,
+				ED901B0A292BBCD9001A286F /* Modali */,
+			);
+			path = "Pagine della tab";
+			sourceTree = "<group>";
+		};
+		ED10B61929269C7900CE4B1D /* Pagine dello store */ = {
+			isa = PBXGroup;
+			children = (
+				ED901B0F292BCEC0001A286F /* Modaleaccount.swift */,
+				ED10B61A29269CF600CE4B1D /* Tabiniziale.swift */,
+				ED10B61C29269D9200CE4B1D /* iPhone14.swift */,
+				ED10B61E29269DFA00CE4B1D /* iPad.swift */,
+				ED10B6202928CFE300CE4B1D /* TabPrimoPiano.swift */,
+			);
+			path = "Pagine dello store";
+			sourceTree = "<group>";
+		};
+		ED901B0A292BBCD9001A286F /* Modali */ = {
+			isa = PBXGroup;
+			children = (
+				ED901B0B292BBD71001A286F /* accountmodale.swift */,
+				ED10B625292A333800CE4B1D /* iPadmodale.swift */,
+				ED10B6232928DB3900CE4B1D /* iPhonemodale.swift */,
+			);
+			path = Modali;
+			sourceTree = "<group>";
+		};
+		ED901B11292D11E8001A286F /* Elementi calendario */ = {
+			isa = PBXGroup;
+			children = (
+				ED901B12292D120D001A286F /* TextCalendario.swift */,
+				ED901B14292D126F001A286F /* BottoneCalendario.swift */,
+				ED901B16292E18E9001A286F /* ScrollCalendarii.swift */,
+			);
+			path = "Elementi calendario";
+			sourceTree = "<group>";
+		};
+		ED901B1A292E20BE001A286F /* Ricerca */ = {
+			isa = PBXGroup;
+			children = (
+				ED901B18292E20B6001A286F /* Barradiricerca.swift */,
+			);
+			path = Ricerca;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +228,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED10B60329251DCB00CE4B1D /* ContentView.swift in Sources */,
+				ED10B626292A333800CE4B1D /* iPadmodale.swift in Sources */,
+				ED10B61B29269CF600CE4B1D /* Tabiniziale.swift in Sources */,
+				ED10B6212928CFE300CE4B1D /* TabPrimoPiano.swift in Sources */,
+				ED10B6242928DB3900CE4B1D /* iPhonemodale.swift in Sources */,
+				ED10B61F29269DFA00CE4B1D /* iPad.swift in Sources */,
+				ED901B10292BCEC0001A286F /* Modaleaccount.swift in Sources */,
+				ED901B17292E18E9001A286F /* ScrollCalendarii.swift in Sources */,
+				ED901B13292D120D001A286F /* TextCalendario.swift in Sources */,
+				ED10B60329251DCB00CE4B1D /* StoreView.swift in Sources */,
+				ED10B611292527F000CE4B1D /* Calendario.swift in Sources */,
 				ED10B60129251DCB00CE4B1D /* Apple_StoreApp.swift in Sources */,
+				ED10B615292528CD00CE4B1D /* Ricerca.swift in Sources */,
+				ED901B0C292BBD71001A286F /* accountmodale.swift in Sources */,
+				ED10B6132925281F00CE4B1D /* Per te.swift in Sources */,
+				ED10B60F29251F2B00CE4B1D /* Tabs.swift in Sources */,
+				ED901B15292D126F001A286F /* BottoneCalendario.swift in Sources */,
+				ED10B61D29269D9200CE4B1D /* iPhone14.swift in Sources */,
+				ED901B19292E20B6001A286F /* Barradiricerca.swift in Sources */,
+				ED10B6172925292700CE4B1D /* ShoppingBag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
