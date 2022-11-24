@@ -27,7 +27,8 @@
 		ED901B13292D120D001A286F /* TextCalendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B12292D120D001A286F /* TextCalendario.swift */; };
 		ED901B15292D126F001A286F /* BottoneCalendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B14292D126F001A286F /* BottoneCalendario.swift */; };
 		ED901B17292E18E9001A286F /* ScrollCalendarii.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B16292E18E9001A286F /* ScrollCalendarii.swift */; };
-		ED901B19292E20B6001A286F /* Barradiricerca.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED901B18292E20B6001A286F /* Barradiricerca.swift */; };
+		EDA504CE292E76E1004E2AFA /* ListaRicerca2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA504CD292E76E1004E2AFA /* ListaRicerca2.swift */; };
+		EDA504D0292E7972004E2AFA /* Carta Regalo.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA504CF292E7972004E2AFA /* Carta Regalo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,7 +53,8 @@
 		ED901B12292D120D001A286F /* TextCalendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextCalendario.swift; sourceTree = "<group>"; };
 		ED901B14292D126F001A286F /* BottoneCalendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottoneCalendario.swift; sourceTree = "<group>"; };
 		ED901B16292E18E9001A286F /* ScrollCalendarii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollCalendarii.swift; sourceTree = "<group>"; };
-		ED901B18292E20B6001A286F /* Barradiricerca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Barradiricerca.swift; sourceTree = "<group>"; };
+		EDA504CD292E76E1004E2AFA /* ListaRicerca2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaRicerca2.swift; sourceTree = "<group>"; };
+		EDA504CF292E7972004E2AFA /* Carta Regalo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Carta Regalo.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,7 +155,8 @@
 		ED901B1A292E20BE001A286F /* Ricerca */ = {
 			isa = PBXGroup;
 			children = (
-				ED901B18292E20B6001A286F /* Barradiricerca.swift */,
+				EDA504CD292E76E1004E2AFA /* ListaRicerca2.swift */,
+				EDA504CF292E7972004E2AFA /* Carta Regalo.swift */,
 			);
 			path = Ricerca;
 			sourceTree = "<group>";
@@ -245,7 +248,8 @@
 				ED10B60F29251F2B00CE4B1D /* Tabs.swift in Sources */,
 				ED901B15292D126F001A286F /* BottoneCalendario.swift in Sources */,
 				ED10B61D29269D9200CE4B1D /* iPhone14.swift in Sources */,
-				ED901B19292E20B6001A286F /* Barradiricerca.swift in Sources */,
+				EDA504CE292E76E1004E2AFA /* ListaRicerca2.swift in Sources */,
+				EDA504D0292E7972004E2AFA /* Carta Regalo.swift in Sources */,
 				ED10B6172925292700CE4B1D /* ShoppingBag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -378,6 +382,7 @@
 				DEVELOPMENT_TEAM = SATR9T72MD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Apple Store";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -407,6 +412,7 @@
 				DEVELOPMENT_TEAM = SATR9T72MD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Apple Store";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
